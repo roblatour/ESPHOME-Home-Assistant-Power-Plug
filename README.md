@@ -38,3 +38,7 @@ Next, use ESPHOME's log feature to view the logs of the device running this soft
 # A helpful video 
 on how to install ESPHome on a SONOFF S31 Lite can be found here:
 https://www.youtube.com/watch?v=S4-HVYPCA2c
+
+## Support
+
+[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
